@@ -1,5 +1,5 @@
 # Flask-Tutorial-Application
-I have created this simple project based on [Flask tutorial](https://flask.palletsprojects.com/en/2.0.x/).I followed it step by step and I think it is one of the best docs I have ever read. But the thing I like it most is that every user can see the others posts but he/she can only delete or edit our own posts not the others.
+I have created this simple project based on [Flask tutorial](https://flask.palletsprojects.com/en/2.0.x/).I followed it step by step and I think it is one of the best docs I have ever read. But the thing I like it most is that every user can see the others posts but we can only delete or edit our own posts not the others.
 This app cosists of 2 parts :
 
 ```python
